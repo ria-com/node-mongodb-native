@@ -13,7 +13,7 @@
     "legacy"
   ],
   "dependencies": {
-      "mongodb-core": "git://github.com/christkv/mongodb-core#master"
+      "mongodb-core": "git://github.com/ria-com/mongodb-core#master"
     , "readable-stream": "1.0.31"
     , "es6-promise": "2.1.1"
   },
